@@ -89,4 +89,16 @@ tr:nth-child(even) {
     background-color:#ccc;
   }
 
+  h5.LORD:hover{
+    color: yellow;
+    text-shadow:2px 3px 5px green;
+    border: red;
+    filter: blur(3px);
+}
 
+h5.PHIPPS:hover{
+    color: yellow;
+    text-shadow:2px 3px 5px green;
+    border: red;
+    filter: blur(3px);
+}
