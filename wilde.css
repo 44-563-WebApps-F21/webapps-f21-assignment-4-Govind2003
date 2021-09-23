@@ -102,3 +102,28 @@ h5.PHIPPS:hover{
     border: red;
     filter: blur(3px);
 }
+
+#cont {
+    position: relative;
+}
+#cont img {
+    position: absolute;
+    top: 170px;
+    right: 30px;
+    height: 415px;
+    width: 350px;
+}
+ul.navbar-vertical a:hover{
+    background-color: #555;color:red;
+  }
+
+.ico:before{
+    content: '';
+    background:url('3.jpg');
+    background-size:cover;
+    position:absolute;
+    
+    width:30px;
+    height:20px;
+    margin:10px;
+}
