@@ -75,4 +75,18 @@ h5.PHIPPS:hover{
     border: red;
     filter: blur(1px);
 }
+table,td,th
+{ 
+    border: solid 1px ;
+    text-align: center;
+    width: 30%;
+    color: black;
+    padding: 10px;
+    margin: 20px;
+}
+
+tr:nth-child(even) {
+    background-color:#ccc;
+  }
+
 
